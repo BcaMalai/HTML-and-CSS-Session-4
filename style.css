@@ -104,3 +104,180 @@ header {
     margin: 10%;
     margin-top: 50px;
 }
+
+.support {
+    background-color: rgb(240, 240, 240);
+    margin-top: 75px;
+    border-top: 1px solid rgb(206, 206, 206);
+    border-bottom: 1px solid rgb(206, 206, 206);
+}
+
+.support_box {
+    width: 28%;
+    padding: 30px;
+    margin: 0px auto;
+}
+
+.support_box h3 {
+    font-size: 25px;
+    font-weight: 400;
+}
+
+.support_box p {
+    font-weight: 200;
+}
+
+.underline {
+    width: 30px;
+    height: 5px;
+    background-color: aqua;
+    border-radius: 10px;
+}
+
+.support_box_border {
+    border-left: 1px solid rgb(206, 206, 206);
+    border-right: 1px solid rgb(206, 206, 206);
+}
+
+.features {
+    margin-top: 50px;
+}
+
+.features_img {
+    width: 20%;
+    margin: 0px auto;
+}
+
+
+.features_img img {
+    width: 100%;
+}
+
+.features_content {
+    width: 60%;
+    margin: 0px auto;
+    text-align: center;
+}
+
+.features_content h2 {
+    font-size: 50px;
+}
+
+.features_content p {
+    color: rgb(104, 104, 104);
+    font-size: 18px;
+}
+
+.features_buttons {
+    margin-top: 100px;
+}
+
+.features_button {
+    width: 33.33%;
+    text-align: center;
+    padding-bottom: 10px;
+    border-bottom: 3px solid rgb(212, 212, 212);
+}
+
+.features_button a {
+    text-decoration: none;
+    color: black;
+}
+
+.features_button a:hover {
+    border-bottom: 3px solid dodgerblue;
+    
+}
+
+.features_text {
+    margin-top: 100px;
+    width: 30%;
+    padding: 50px;
+    color: rgb(165, 165, 165);
+}
+
+.features_video {
+    margin-top: 100px;
+    width: 60%;
+}
+
+.features_video video {
+    width: 80%;
+    margin: 0px 10%;
+}
+
+.account {
+    margin-top: 200px;
+    margin-bottom: 200px;
+}
+
+.account_content {
+    width: 35%;
+    margin: auto;
+}
+
+.account_content h2 {
+    text-align: center;
+    font-size: 40px;
+}
+
+.account_content a {
+    display: block;
+    text-decoration: none;
+    color: dodgerblue;
+    text-align: center;
+    font-size: 20px;
+    padding: 15px 25px;
+    margin-top: 15px;
+    font-weight: 500;
+}
+
+.account_content .login {
+    background-color: dodgerblue;
+    color: white;
+    width: 50%;
+    margin: auto;
+    border-radius: 5px;
+}
+
+.login:hover {
+    background-color: rgb(23, 125, 226);
+}
+
+.footer {
+    padding: 30px 0px;
+    background-color: rgb(236, 238, 240);
+}
+
+.footer h3 {
+    font-size: 28px;
+    color: rgb(83, 81, 81);
+}
+
+.footer_nav {
+    padding: 35px 10px;
+    margin-left: 30px;
+}
+
+.footer_nav a {
+    text-decoration: none;
+    color: rgb(172, 172, 172);
+    font-size: 18px;
+    margin: 5px 15px;
+}
+
+.footer_nav a:hover {
+    color: black;
+}
+
+.footer_help {
+    width: 25%;
+    padding: 33px 10px;
+    margin-left: 350px;
+    font-size: 18px;
+    color: rgb(230, 234, 236);
+}
+
+.footer_help small {
+    margin-right: 20px;
+}
